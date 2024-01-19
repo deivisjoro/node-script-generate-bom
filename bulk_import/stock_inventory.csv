@@ -1,0 +1,2 @@
+﻿importId;stockLocation_name;statusSelect_item;plannedStartDateT;description;typeSelect_item;company_code;plannedEndDateT;excludeOutOfStock;includeObsolete
+;Main Workshop;draft;TODAY[];Inventario Inicial;Yearly;BASE;TODAY[=12M=31d];false;false

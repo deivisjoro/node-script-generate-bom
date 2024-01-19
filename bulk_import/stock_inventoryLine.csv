@@ -1,0 +1,784 @@
+﻿inventory_description;product_code;currentQty;realQty;description;productVariant_importId;trackingNumber.importId;stockLocation_name
+Inventario Inicial;4A1004260000000U985001;1064;1064;;;;Main Workshop
+Inventario Inicial;4A1004260000000U425537;1650.5;1650.5;;;;Main Workshop
+Inventario Inicial;4A1004260000000U445503;1152;1152;;;;Main Workshop
+Inventario Inicial;4A1003260000000U985001;3707.6;3707.6;;;;Main Workshop
+Inventario Inicial;4A1000010000000U985001;0;0;;;;Main Workshop
+Inventario Inicial;4A1003260000000U425537;3481;3481;;;;Main Workshop
+Inventario Inicial;4A1000010000000U425537;0;0;;;;Main Workshop
+Inventario Inicial;4A1003260000000U455520;3334.1;3334.1;;;;Main Workshop
+Inventario Inicial;4A1000010000000U455520;0;0;;;;Main Workshop
+Inventario Inicial;4A1000010000000U326002-2;535;535;;;;Main Workshop
+Inventario Inicial;100001U315539;0;0;;;;Main Workshop
+Inventario Inicial;100326U315539;0;0;;;;Main Workshop
+Inventario Inicial;4A1008630000000U257621;0;0;;;;Main Workshop
+Inventario Inicial;4A1008630000000U357070;0;0;;;;Main Workshop
+Inventario Inicial;4A1000010000000U005009;0;0;;;;Main Workshop
+Inventario Inicial;4A3007420000000U455520-1;0;0;;;;Main Workshop
+Inventario Inicial;4A3204410000000U455520;0;0;;;;Main Workshop
+Inventario Inicial;4A3204410000000U985001;6351.1;6351.1;;;;Main Workshop
+Inventario Inicial;4A3007420000000U985001;0;0;;;;Main Workshop
+Inventario Inicial;4A3007420000000U425537;2739.3;2739.3;;;;Main Workshop
+Inventario Inicial;4A3204410000000U425537;0;0;;;;Main Workshop
+Inventario Inicial;4A3007420000000U775202;810.6;810.6;;;;Main Workshop
+Inventario Inicial;4A3007420000000U348014;609.3;609.3;;;;Main Workshop
+Inventario Inicial;4A3007420000000U455520-2;943.7;943.7;;;;Main Workshop
+Inventario Inicial;4A3007420000000U666208;691.1;691.1;;;;Main Workshop
+Inventario Inicial;4A3404410000000U335511;0;0;;;;Main Workshop
+Inventario Inicial;4A3204410000000U367515;0;0;;;;Main Workshop
+Inventario Inicial;4A3008120000000U626005;0;0;;;;Main Workshop
+Inventario Inicial;4A3007420000000U635022;0;0;;;;Main Workshop
+Inventario Inicial;4A3204410000000U358602;0;0;;;;Main Workshop
+Inventario Inicial;4A3204410000000U326002;195.3;195.3;;;;Main Workshop
+Inventario Inicial;4A1005750000000U005009-1;0;0;;;;Main Workshop
+Inventario Inicial;4A1005750000000U985001;204;204;;;;Main Workshop
+Inventario Inicial;4A2002600001000U985001;0;0;;;;Main Workshop
+Inventario Inicial;4A1005750000000U005009-2;0;0;;;;Main Workshop
+Inventario Inicial;4A2002600001000U425537;172;172;;;;Main Workshop
+Inventario Inicial;4A1004630000000U005001;988.5;988.5;;;;Main Workshop
+Inventario Inicial;F PRIMERAS NEGRO;1855.9;1855.9;;;;Main Workshop
+Inventario Inicial;F PRIMERAS BEIGE;921;921;;;;Main Workshop
+Inventario Inicial;4A3004710000000U985001;117.5;117.5;;;;Main Workshop
+Inventario Inicial;4A3000080000000U985001;0;0;;;;Main Workshop
+Inventario Inicial;4A3004710000000U425537;669.5;669.5;;;;Main Workshop
+Inventario Inicial;4A3004710000000U445506;1497.1;1497.1;;;;Main Workshop
+Inventario Inicial;4A3004710000000U315539;305.7;305.7;;;;Main Workshop
+Inventario Inicial;4A3000080000000U315539;0;0;;;;Main Workshop
+Inventario Inicial;4A3004710000000U326002;148.5;148.5;;;;Main Workshop
+Inventario Inicial;4A3000000000000U326002;0;0;;;;Main Workshop
+Inventario Inicial;4A3000080000000U005009;0;0;;;;Main Workshop
+Inventario Inicial;4A100210000000U985001;2701.4;2701.4;;;;Main Workshop
+Inventario Inicial;4A100210000000U425537;2357.2;2357.2;;;;Main Workshop
+Inventario Inicial;4A100210000000U455520;2568.5;2568.5;;;;Main Workshop
+Inventario Inicial;4A1000020000000U985001;1410.5;1410.5;;;;Main Workshop
+Inventario Inicial;4A1000020000000U425537;1280.8;1280.8;;;;Main Workshop
+Inventario Inicial;4A1000020000000U455520;924.8;924.8;;;;Main Workshop
+Inventario Inicial;4A1000020000000U315539;446;446;;;;Main Workshop
+Inventario Inicial;4A1000020000000U005009;22.25;22.25;;;;Main Workshop
+Inventario Inicial;4A1000020000000U326002;562.3;562.3;;;;Main Workshop
+Inventario Inicial;441668-RMI0955-1;55.26;55.26;;;;Main Workshop
+Inventario Inicial;441668-RMI0955-2;0;0;;;;Main Workshop
+Inventario Inicial;443972-RMI0997-1;0;0;;;;Main Workshop
+Inventario Inicial;443972-RMI0997-2;0;0;;;;Main Workshop
+Inventario Inicial;441668-OMC1223;1214.7;1214.7;;;;Main Workshop
+Inventario Inicial;441668-PMC1066;96.6;96.6;;;;Main Workshop
+Inventario Inicial;ESPUMA 3MM;12;12;;;;Main Workshop
+Inventario Inicial;X02531;1500;1500;;;;Main Workshop
+Inventario Inicial;GARRA ANN MICHELL FITNESS WITH LATEX 10 X 10 BRILLANTE;266;266;;;;Main Workshop
+Inventario Inicial;GARRA ANN MICHELL FITNESS WITH LATEX 10 X 10 MATE;403;403;;;;Main Workshop
+Inventario Inicial;GARRA FITNESS WITH LATEX 10 X 10 BRILLANTE;653;653;;;;Main Workshop
+Inventario Inicial;GARRA FITNESS WITH LATEX 10 X 10 MATE;1654;1654;;;;Main Workshop
+Inventario Inicial;GARRA FITNESS WITH LATEX 10 X 10 TELA;8553;8553;;;;Main Workshop
+Inventario Inicial;GARRA BELLA MICHELL FITNESS WITH LATEX 10 X 10 BRILLANTE;363;363;;;;Main Workshop
+Inventario Inicial;GARRA BELLA MICHELL FITNESS WITH LATEX 10 X 10 MATE;78;78;;;;Main Workshop
+Inventario Inicial;GARRA ANN ROSA FITNESS WITH LATEX 10 X 10 BRILLANTE;147;147;;;;Main Workshop
+Inventario Inicial;GARRA YANI LUNA FITNESS WITH LATEX 10 X 10 BRILLANTE;156;156;;;;Main Workshop
+Inventario Inicial;GARRA SIZE'S BEAUTY FITNESS WITH LATEX 10 X 10 BRILLANTE;0;0;;;;Main Workshop
+Inventario Inicial;GARRA BOMBOSHELL FITNESS WITH LATEX 10 X 10 PLATEADO;520;520;;;;Main Workshop
+Inventario Inicial;GARRA BOMBOSHELL FITNESS WITH LATEX 10 X 10 DORADO;0;0;;;;Main Workshop
+Inventario Inicial;GARRA ACCION BY MANELYK FIT 10 X 10 MATE;324;324;;;;Main Workshop
+Inventario Inicial;GARRA ANGEL CURVES FITNESS WITH LATEX 10 X 10 MATE;190;190;;;;Main Workshop
+Inventario Inicial;GARRA SMS SQUEEZ ME SKNNY ALWAYS A PERFECT FIT 10 X 10 MATE;66;66;;;;Main Workshop
+Inventario Inicial;GARRA ELEGANT FIGURE FITNESS WITH LATEX 10 X 10 BRILLANTE;0;0;;;;Main Workshop
+Inventario Inicial;GARRA GUITAR BODY 10 X 10 MATE;372;372;;;;Main Workshop
+Inventario Inicial;GARRA SIN LOGO 10 X 10;170;170;;;;Main Workshop
+Inventario Inicial;VELCRO HEMBRA COLOR NEGRO;3000;3000;;;;Main Workshop
+Inventario Inicial;VELCRO MACHO COLOR NEGRO;1750;1750;;;;Main Workshop
+Inventario Inicial;23735-1;9400;9400;;;;Main Workshop
+Inventario Inicial;23735-2;1600;1600;;;;Main Workshop
+Inventario Inicial;19500-1;15400;15400;;;;Main Workshop
+Inventario Inicial;19500-2;9800;9800;;;;Main Workshop
+Inventario Inicial;653;450;450;;;;Main Workshop
+Inventario Inicial;CINTA SATIN #3 CARRETO 400MTS COLOR BLANCO;3450;3450;;;;Main Workshop
+Inventario Inicial;614E6037-2;1080;1080;;;;Main Workshop
+Inventario Inicial;614E6037-3;2204;2204;;;;Main Workshop
+Inventario Inicial;614E6037-4;2297;2297;;;;Main Workshop
+Inventario Inicial;614E6037-5;50;50;;;;Main Workshop
+Inventario Inicial;606E6037-6;5750;5750;;;;Main Workshop
+Inventario Inicial;606E6037-7;4491;4491;;;;Main Workshop
+Inventario Inicial;606E6037-8;4926;4926;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455520-1;6204;6204;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455521-1;4549;4549;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455522-1;4081;4081;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455523-1;0;0;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455523-2;0;0;;;;Main Workshop
+Inventario Inicial;10525037-1;3200;3200;;;;Main Workshop
+Inventario Inicial;10525037-2;2100;2100;;;;Main Workshop
+Inventario Inicial;10525037-3;7492;7492;;;;Main Workshop
+Inventario Inicial;RESORTE SILICONADO 5 CM COLOR  ( NO SE HAN AUTORIZADO MUESTRAS;0;0;;;;Main Workshop
+Inventario Inicial;ELASTICO SUAVE 15 CM COLOR NEGRO;1350;1350;;;;Main Workshop
+Inventario Inicial;ELASTICO SUAVE 10 CM COLOR NEGRO;725;725;;;;Main Workshop
+Inventario Inicial;5806200000-1;1900;1900;;;;Main Workshop
+Inventario Inicial;5806200000-2;1600;1600;;;;Main Workshop
+Inventario Inicial;5806200000-3;1650;1650;;;;Main Workshop
+Inventario Inicial;5806100000;1150;1150;;;;Main Workshop
+Inventario Inicial;200030LD-1;1488;1488;;;;Main Workshop
+Inventario Inicial;200030LD-2;708;708;;;;Main Workshop
+Inventario Inicial;200030LD-3;387;387;;;;Main Workshop
+Inventario Inicial;H 0300/020-9109-000-1;1540;1540;;;;Main Workshop
+Inventario Inicial;H 0300/020-8981-000-1;1680;1680;;;;Main Workshop
+Inventario Inicial;H 0300/020-8166-000-1;2100;2100;;;;Main Workshop
+Inventario Inicial;526/16.00701C;6930;6930;;;;Main Workshop
+Inventario Inicial;526/16.08270C;350;350;;;;Main Workshop
+Inventario Inicial;526/16.08568C;3150;3150;;;;Main Workshop
+Inventario Inicial;37516000-1;15550;15550;;;;Main Workshop
+Inventario Inicial;37516000-2;80171;80171;;;;Main Workshop
+Inventario Inicial;37516000-3;55575;55575;;;;Main Workshop
+Inventario Inicial;37516000-4;375;375;;;;Main Workshop
+Inventario Inicial;37516000-5;1050;1050;;;;Main Workshop
+Inventario Inicial;37516000-6;375;375;;;;Main Workshop
+Inventario Inicial;37516000-7;1500;1500;;;;Main Workshop
+Inventario Inicial;32616000-1;3047;3047;;;;Main Workshop
+Inventario Inicial;32616000-2;6309;6309;;;;Main Workshop
+Inventario Inicial;37516000-8;100;100;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 2 3/4 NEGRO VARBRO;7600;7600;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 2 3/4 BEIGE VARBRO;9000;9000;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 2 3/4 COCOA VARBRO;11400;11400;;;;Main Workshop
+Inventario Inicial;GAFETE 3/4 3 X 2;28000;28000;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 3 3/4 NEGRO VARBRO;6400;6400;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 3 3/4 BEIGE VARBRO;9400;9400;;;;Main Workshop
+Inventario Inicial;UNIDADES GAFETE 3 X 3 3/4 COCOA VARBRO;6800;6800;;;;Main Workshop
+Inventario Inicial;3500001000005-1;1600;1600;;;;Main Workshop
+Inventario Inicial;3500001000005-2;0;0;;;;Main Workshop
+Inventario Inicial;3500001000005-3;1200;1200;;;;Main Workshop
+Inventario Inicial;3500001000004-1;400;400;;;;Main Workshop
+Inventario Inicial;3500001000004-2;0;0;;;;Main Workshop
+Inventario Inicial;3500001000004-3;0;0;;;;Main Workshop
+Inventario Inicial;3500001000007-1;0;0;;;;Main Workshop
+Inventario Inicial;3500001000007-2;0;0;;;;Main Workshop
+Inventario Inicial;3500001000007-3;0;0;;;;Main Workshop
+Inventario Inicial;3500001000003-1;500;500;;;;Main Workshop
+Inventario Inicial;3500001000003-2;510;510;;;;Main Workshop
+Inventario Inicial;3500001000003-3;1000;1000;;;;Main Workshop
+Inventario Inicial;4 HILERAS GANCHO DORADO-1;300.7;300.7;;;;Main Workshop
+Inventario Inicial;4 HILERAS GANCHO DORADO-2;0;0;;;;Main Workshop
+Inventario Inicial;4 HILERAS GANCHO DORADO-3;0;0;;;;Main Workshop
+Inventario Inicial;350000100002-1;394;394;;;;Main Workshop
+Inventario Inicial;350000100002-2;0;0;;;;Main Workshop
+Inventario Inicial;350000100002-3;0;0;;;;Main Workshop
+Inventario Inicial;350000100002-4;394;394;;;;Main Workshop
+Inventario Inicial;3500001000016-1;1223.3;1223.3;;;;Main Workshop
+Inventario Inicial;3500001000016-2;1346;1346;;;;Main Workshop
+Inventario Inicial;3500001000016-3;1422.5;1422.5;;;;Main Workshop
+Inventario Inicial;3500001000014-1;0;0;;;;Main Workshop
+Inventario Inicial;3500001000014-2;391;391;;;;Main Workshop
+Inventario Inicial;3500001000014-3;775.3;775.3;;;;Main Workshop
+Inventario Inicial;3500000000000;13990;13990;;;;Main Workshop
+Inventario Inicial;4 HILERAS EXTRA FUERTE-1;0;0;;;;Main Workshop
+Inventario Inicial;4 HILERAS EXTRA FUERTE-2;25;25;;;;Main Workshop
+Inventario Inicial;4 HILERAS EXTRA FUERTE-3;100;100;;;;Main Workshop
+Inventario Inicial;3 HILERAS EXTRA FUERTE-1;0;0;;;;Main Workshop
+Inventario Inicial;3 HILERAS EXTRA FUERTE-2;0;0;;;;Main Workshop
+Inventario Inicial;3 HILERAS EXTRA FUERTE-3;273;273;;;;Main Workshop
+Inventario Inicial;3 HILERAS EXTRA FUERTE-4;35;35;;;;Main Workshop
+Inventario Inicial;3500001000002-1;185;185;;;;Main Workshop
+Inventario Inicial;3500001000002-2;185;185;;;;Main Workshop
+Inventario Inicial;3500001000002-3;0;0;;;;Main Workshop
+Inventario Inicial;3500001000002-4;0;0;;;;Main Workshop
+Inventario Inicial;3500001000002-5;0;0;;;;Main Workshop
+Inventario Inicial;1 HILERA EXTRA FUERTE-1;600;600;;;;Main Workshop
+Inventario Inicial;1 HILERA EXTRA FUERTE-2;75;75;;;;Main Workshop
+Inventario Inicial;1 HILERA EXTRA FUERTE-3;0;0;;;;Main Workshop
+Inventario Inicial;CIERRE SEPARABLE 6 AUTO SEMI - 28CM   ( ESTA MEDIDA SOLO EXISTE EN CIERRE ENTRE PIERNA HACER SEGUIMIENTO  );0;0;;;;Main Workshop
+Inventario Inicial;CIERRE SEPARABLE 6 AUTO SEMI DORADO - 40CM;1700;1700;;;;Main Workshop
+Inventario Inicial;CIERRE SEPARABLE 6 AUTO SEMI DORADO - 40CM ( SEP POLIESTER 6 AUTO SEMI-65-LATON- 40 CM- 00002 NEGRO );550;550;;;;Main Workshop
+Inventario Inicial;CIERRE SEPARABLE 6 AUTO SEMI DORADO - 40CM ( SEP POLIESTER 6 AUTO SEMI-65-LATON- 40 CM- 06762 BEIGE );750;750;;;;Main Workshop
+Inventario Inicial;CIERRE SEPARABLE 6 AUTO SEMI DORADO - 40CM ( SEP POLIESTER 6 AUTO SEMI-65-LATON- 40 CM- 00395 COCOA );400;400;;;;Main Workshop
+Inventario Inicial;CIERRE DELANTERO FIJO SEMI INVISIBLE - 70CM;5800;5800;;;;Main Workshop
+Inventario Inicial;CIERRE DELANTERO FIJO SEMI INVISIBLE - 70CM ( CREMALLERA POLIE FIJA 5.0 AUTOMA 70 CM CIFC56 NEGRO );2100;2100;;;;Main Workshop
+Inventario Inicial;CIERRE DELANTERO FIJO SEMI INVISIBLE - 70CM ( CREMALLERA POLIE FIJA 5.0 AUTOMA 70 CM CIFC56 BEIGE );1400;1400;;;;Main Workshop
+Inventario Inicial;CIERRE DELANTERO FIJO SEMI INVISIBLE - 70CM ( CREMALLERA POLIE FIJA 5.0 AUTOMA 70 CM CIFC56 COCOA );2300;2300;;;;Main Workshop
+Inventario Inicial;21250580;1000;1000;;;;Main Workshop
+Inventario Inicial;21260580;1200;1200;;;;Main Workshop
+Inventario Inicial;21270580;1600;1600;;;;Main Workshop
+Inventario Inicial;21280580;900;900;;;;Main Workshop
+Inventario Inicial;21290580;1300;1300;;;;Main Workshop
+Inventario Inicial;21300580;1200;1200;;;;Main Workshop
+Inventario Inicial;21320580;0;0;;;;Main Workshop
+Inventario Inicial;21330580;300;300;;;;Main Workshop
+Inventario Inicial;21340580;1400;1400;;;;Main Workshop
+Inventario Inicial;21350580;1200;1200;;;;Main Workshop
+Inventario Inicial;21360580;600;600;;;;Main Workshop
+Inventario Inicial;21370580;400;400;;;;Main Workshop
+Inventario Inicial;21380580;900;900;;;;Main Workshop
+Inventario Inicial;21400580;2000;2000;;;;Main Workshop
+Inventario Inicial;21420580;0;0;;;;Main Workshop
+Inventario Inicial;21430580;4492;4492;;;;Main Workshop
+Inventario Inicial;21450580;3200;3200;;;;Main Workshop
+Inventario Inicial;21550580;800;800;;;;Main Workshop
+Inventario Inicial;21250123;0;0;;;;Main Workshop
+Inventario Inicial;21260123;1100;1100;;;;Main Workshop
+Inventario Inicial;21270123;900;900;;;;Main Workshop
+Inventario Inicial;21280123;3000;3000;;;;Main Workshop
+Inventario Inicial;21290123;2100;2100;;;;Main Workshop
+Inventario Inicial;21300123;2200;2200;;;;Main Workshop
+Inventario Inicial;21320123;1500;1500;;;;Main Workshop
+Inventario Inicial;21330123;2500;2500;;;;Main Workshop
+Inventario Inicial;21340123;1700;1700;;;;Main Workshop
+Inventario Inicial;21350123;2650;2650;;;;Main Workshop
+Inventario Inicial;21360123;900;900;;;;Main Workshop
+Inventario Inicial;21370123;1100;1100;;;;Main Workshop
+Inventario Inicial;21380123;2100;2100;;;;Main Workshop
+Inventario Inicial;21400123;2500;2500;;;;Main Workshop
+Inventario Inicial;21420123;0;0;;;;Main Workshop
+Inventario Inicial;21430123;1000;1000;;;;Main Workshop
+Inventario Inicial;21450123;2800;2800;;;;Main Workshop
+Inventario Inicial;21550123;200;200;;;;Main Workshop
+Inventario Inicial;21250854;0;0;;;;Main Workshop
+Inventario Inicial;21260854;1300;1300;;;;Main Workshop
+Inventario Inicial;21270854;1000;1000;;;;Main Workshop
+Inventario Inicial;21280854;1300;1300;;;;Main Workshop
+Inventario Inicial;21290854;1100;1100;;;;Main Workshop
+Inventario Inicial;21300854;600;600;;;;Main Workshop
+Inventario Inicial;21320854;500;500;;;;Main Workshop
+Inventario Inicial;21330854;1100;1100;;;;Main Workshop
+Inventario Inicial;21340854;400;400;;;;Main Workshop
+Inventario Inicial;21350854;4300;4300;;;;Main Workshop
+Inventario Inicial;21360854;300;300;;;;Main Workshop
+Inventario Inicial;21380854;600;600;;;;Main Workshop
+Inventario Inicial;21390854;2700;2700;;;;Main Workshop
+Inventario Inicial;21400854;3387;3387;;;;Main Workshop
+Inventario Inicial;21420854;2000;2000;;;;Main Workshop
+Inventario Inicial;21430854;2000;2000;;;;Main Workshop
+Inventario Inicial;21450854;3219;3219;;;;Main Workshop
+Inventario Inicial;21550854;400;400;;;;Main Workshop
+Inventario Inicial;21350274;0;0;;;;Main Workshop
+Inventario Inicial;21370274;0;0;;;;Main Workshop
+Inventario Inicial;6190900;2700;2700;;;;Main Workshop
+Inventario Inicial;6191700;30000;30000;;;;Main Workshop
+Inventario Inicial;6191500-1;18000;18000;;;;Main Workshop
+Inventario Inicial;6190700;9000;9000;;;;Main Workshop
+Inventario Inicial;6191900;22000;22000;;;;Main Workshop
+Inventario Inicial;6191500;27000;27000;;;;Main Workshop
+Inventario Inicial;6141500-1;12000;12000;;;;Main Workshop
+Inventario Inicial;6141500;25000;25000;;;;Main Workshop
+Inventario Inicial;3188MIC-1;4400;4400;;;;Main Workshop
+Inventario Inicial;3188MIC-2;3850;3850;;;;Main Workshop
+Inventario Inicial;3188MIC-3;6678;6678;;;;Main Workshop
+Inventario Inicial;3188MIC-4;0;0;;;;Main Workshop
+Inventario Inicial;3188MIC-5;0;0;;;;Main Workshop
+Inventario Inicial;3188MIC-6;0;0;;;;Main Workshop
+Inventario Inicial;3189MIC-1;10500;10500;;;;Main Workshop
+Inventario Inicial;3189MIC-2;4939;4939;;;;Main Workshop
+Inventario Inicial;3189MIC-3;5743;5743;;;;Main Workshop
+Inventario Inicial;3189MIC-4;125;125;;;;Main Workshop
+Inventario Inicial;526/16.00701-1;6930;6930;;;;Main Workshop
+Inventario Inicial;526/16.08270-1;350;350;;;;Main Workshop
+Inventario Inicial;526/16.08568-1;3150;3150;;;;Main Workshop
+Inventario Inicial;526/16.00295-1;555;555;;;;Main Workshop
+Inventario Inicial;505/08.00002-1;200;200;;;;Main Workshop
+Inventario Inicial;177001716;5926;5926;;;;Main Workshop
+Inventario Inicial;717991716-1;4070;4070;;;;Main Workshop
+Inventario Inicial;729991716-2;4499;4499;;;;Main Workshop
+Inventario Inicial;10891500-1;22560;22560;;;;Main Workshop
+Inventario Inicial;10891500-2;48158;48158;;;;Main Workshop
+Inventario Inicial;10891500-3;17316;17316;;;;Main Workshop
+Inventario Inicial;10891500-4;0;0;;;;Main Workshop
+Inventario Inicial;10891500-5;960;960;;;;Main Workshop
+Inventario Inicial;10891500-6;3120;3120;;;;Main Workshop
+Inventario Inicial;10891500-7;6695;6695;;;;Main Workshop
+Inventario Inicial;TORN-VR4.6;22;22;;;;Main Workshop
+Inventario Inicial;V6073-7/18;11600;11600;;;;Main Workshop
+Inventario Inicial;V6073-7/19;800;800;;;;Main Workshop
+Inventario Inicial;V6073-7/20;15200;15200;;;;Main Workshop
+Inventario Inicial;V6073-7/21;12200;12200;;;;Main Workshop
+Inventario Inicial;V6073-7/22;11600;11600;;;;Main Workshop
+Inventario Inicial;V6073-7/23;27600;27600;;;;Main Workshop
+Inventario Inicial;V6073-7/24;9200;9200;;;;Main Workshop
+Inventario Inicial;V6073-7/25;6000;6000;;;;Main Workshop
+Inventario Inicial;V6073-7/26;4000;4000;;;;Main Workshop
+Inventario Inicial;V6073-7/27;4400;4400;;;;Main Workshop
+Inventario Inicial;V6073-7/28;9800;9800;;;;Main Workshop
+Inventario Inicial;V6073-7/29;16000;16000;;;;Main Workshop
+Inventario Inicial;V6073-7/30;1000;1000;;;;Main Workshop
+Inventario Inicial;V6073-7/31;400;400;;;;Main Workshop
+Inventario Inicial;V6073-7/32;14400;14400;;;;Main Workshop
+Inventario Inicial;VARILLA 8 CM;5750;5750;;;;Main Workshop
+Inventario Inicial;VARILLA 11 CM;5436;5436;;;;Main Workshop
+Inventario Inicial;VARILLA 12 CM;1625;1625;;;;Main Workshop
+Inventario Inicial;VARILLA 13 CM;4311;4311;;;;Main Workshop
+Inventario Inicial;VARILLA 14 CM;4337;4337;;;;Main Workshop
+Inventario Inicial;VARILLA 15 CM;11164;11164;;;;Main Workshop
+Inventario Inicial;VARILLA 16 CM;4000;4000;;;;Main Workshop
+Inventario Inicial;VARILLA 17 CM;17530;17530;;;;Main Workshop
+Inventario Inicial;VARILLA 18 CM;0;0;;;;Main Workshop
+Inventario Inicial;VARILLA 19 CM;21500;21500;;;;Main Workshop
+Inventario Inicial;VARILLA 20 CM;1000;1000;;;;Main Workshop
+Inventario Inicial;VARILLA 21 CM;20500;20500;;;;Main Workshop
+Inventario Inicial;VARILLA 22 CM;1000;1000;;;;Main Workshop
+Inventario Inicial;VARILLA 23 CM;1000;1000;;;;Main Workshop
+Inventario Inicial;VARILLA 24 CM;12500;12500;;;;Main Workshop
+Inventario Inicial;VARILLA 25 CM;1000;1000;;;;Main Workshop
+Inventario Inicial;VARILLA 26 CM;3500;3500;;;;Main Workshop
+Inventario Inicial;VARILLA 27 CM;1900;1900;;;;Main Workshop
+Inventario Inicial;VARILLA 28 CM;9000;9000;;;;Main Workshop
+Inventario Inicial;VARILLA 29 CM;0;0;;;;Main Workshop
+Inventario Inicial;VARILLA 30 CM;9500;9500;;;;Main Workshop
+Inventario Inicial;VARILLA 31 CM;14000;14000;;;;Main Workshop
+Inventario Inicial;VARILLA 32 CM;9000;9000;;;;Main Workshop
+Inventario Inicial;VARILLA 33 CM;9500;9500;;;;Main Workshop
+Inventario Inicial;VARILLA 34 CM;14500;14500;;;;Main Workshop
+Inventario Inicial;VARILLA 35 CM;15542;15542;;;;Main Workshop
+Inventario Inicial;VARILLA 36 CM;8500;8500;;;;Main Workshop
+Inventario Inicial;VARILLA 37 CM;21000;21000;;;;Main Workshop
+Inventario Inicial;VARILLA 38 CM;10547;10547;;;;Main Workshop
+Inventario Inicial;VARILLA 39 CM;6000;6000;;;;Main Workshop
+Inventario Inicial;VARILLA 40 CM;9500;9500;;;;Main Workshop
+Inventario Inicial;VARILLA 41 CM;9500;9500;;;;Main Workshop
+Inventario Inicial;VARILLA 42 CM;5000;5000;;;;Main Workshop
+Inventario Inicial;VARILLA 43 CM;6500;6500;;;;Main Workshop
+Inventario Inicial;VARILLA 44 CM;4000;4000;;;;Main Workshop
+Inventario Inicial;VARILLA 45 CM;8000;8000;;;;Main Workshop
+Inventario Inicial;VARILLA 46 CM;6000;6000;;;;Main Workshop
+Inventario Inicial;POLIESTER 6MM-1;421;421;;;;Main Workshop
+Inventario Inicial;A0101104-1;650;650;;;;Main Workshop
+Inventario Inicial;2041100-001;8000;8000;;;;Main Workshop
+Inventario Inicial;2041100-031;4000;4000;;;;Main Workshop
+Inventario Inicial;2041100-005;8000;8000;;;;Main Workshop
+Inventario Inicial;224090001-1;1500;1500;;;;Main Workshop
+Inventario Inicial;SUBLIMADO;0;0;;;;Main Workshop
+Inventario Inicial;51C2120-05AVA;3460000;3460000;;;;Main Workshop
+Inventario Inicial;51C2120-946VA;3690000;3690000;;;;Main Workshop
+Inventario Inicial;51C2120-25TVA;3930000;3930000;;;;Main Workshop
+Inventario Inicial;51C2120-96CVA;400000;400000;;;;Main Workshop
+Inventario Inicial;51C2120-96QVA;370000;370000;;;;Main Workshop
+Inventario Inicial;51C2120-815VB;790000;790000;;;;Main Workshop
+Inventario Inicial;51C2120-11AVA;40000;40000;;;;Main Workshop
+Inventario Inicial;3157080-C9700;3150000;3150000;;;;Main Workshop
+Inventario Inicial;3157080-946VA;5200000;5200000;;;;Main Workshop
+Inventario Inicial;3157080-25TVA;4550000;4550000;;;;Main Workshop
+Inventario Inicial;JM18991925;300000;300000;;;;Main Workshop
+Inventario Inicial;2925080-C3149;200000;200000;;;;Main Workshop
+Inventario Inicial;2925080-C3127;320000;320000;;;;Main Workshop
+Inventario Inicial;2925080-C1700;2;2;;;;Main Workshop
+Inventario Inicial;353;5000000;5000000;;;;Main Workshop
+Inventario Inicial;192;5000000;5000000;;;;Main Workshop
+Inventario Inicial;220;5000000;5000000;;;;Main Workshop
+Inventario Inicial;239;5000000;5000000;;;;Main Workshop
+Inventario Inicial;209;5000000;5000000;;;;Main Workshop
+Inventario Inicial;216;5000000;5000000;;;;Main Workshop
+Inventario Inicial;397;5000000;5000000;;;;Main Workshop
+Inventario Inicial;120;5000000;5000000;;;;Main Workshop
+Inventario Inicial;208;5000000;5000000;;;;Main Workshop
+Inventario Inicial;PHA848;5000000;5000000;;;;Main Workshop
+Inventario Inicial;297;5000000;5000000;;;;Main Workshop
+Inventario Inicial;143;5000000;5000000;;;;Main Workshop
+Inventario Inicial;300;5000000;5000000;;;;Main Workshop
+Inventario Inicial;399;5000000;5000000;;;;Main Workshop
+Inventario Inicial;217;5000000;5000000;;;;Main Workshop
+Inventario Inicial;185;5000000;5000000;;;;Main Workshop
+Inventario Inicial;145;5000000;5000000;;;;Main Workshop
+Inventario Inicial;1905;5000000;5000000;;;;Main Workshop
+Inventario Inicial;HA71;5000000;5000000;;;;Main Workshop
+Inventario Inicial;LATEX 450 NEGRO TIPO A;100000;100000;;;;Main Workshop
+Inventario Inicial;224090001;4000;4000;;;;Main Workshop
+Inventario Inicial;LAMINA POWERNET 20X56 LATEX;377495;377495;;;;Main Workshop
+Inventario Inicial;101465-1;26509;26509;;;;Main Workshop
+Inventario Inicial;101447-1;4791;4791;;;;Main Workshop
+Inventario Inicial;BOLSA LATEX (PEQUEÑA);4650;4650;;;;Main Workshop
+Inventario Inicial;BOLSA LATEX 15009;1500;1500;;;;Main Workshop
+Inventario Inicial;MARQUILLA;676532;676532;;;;Main Workshop
+Inventario Inicial;MARQUILLA IMPORTADOR;9000;9000;;;;Main Workshop
+Inventario Inicial;1600099924-1;4927;4927;;;;Main Workshop
+Inventario Inicial;016000A339-1;400;400;;;;Main Workshop
+Inventario Inicial;016000A749;1024;1024;;;;Main Workshop
+Inventario Inicial;20003036-1;4480;4480;;;;Main Workshop
+Inventario Inicial;20003036-2;6682;6682;;;;Main Workshop
+Inventario Inicial;20003036-3;9320;9320;;;;Main Workshop
+Inventario Inicial;189928;500;500;;;;Main Workshop
+Inventario Inicial;189959;450;450;;;;Main Workshop
+Inventario Inicial;36016MIC-1;2138;2138;;;;Main Workshop
+Inventario Inicial;NNT220580;1200;1200;;;;Main Workshop
+Inventario Inicial;NNT250580;1500;1500;;;;Main Workshop
+Inventario Inicial;NNT300580;2000;2000;;;;Main Workshop
+Inventario Inicial;NNT310580;1000;1000;;;;Main Workshop
+Inventario Inicial;NNT320580;4300;4300;;;;Main Workshop
+Inventario Inicial;NNT330580;1000;1000;;;;Main Workshop
+Inventario Inicial;NNT350580;700;700;;;;Main Workshop
+Inventario Inicial;NNT380580;2900;2900;;;;Main Workshop
+Inventario Inicial;NNT400580;10600;10600;;;;Main Workshop
+Inventario Inicial;NNT420580;2000;2000;;;;Main Workshop
+Inventario Inicial;NNT450580;3900;3900;;;;Main Workshop
+Inventario Inicial;NNT500580;1650;1650;;;;Main Workshop
+Inventario Inicial;NNT550580;2300;2300;;;;Main Workshop
+Inventario Inicial;NNT600580;1900;1900;;;;Main Workshop
+Inventario Inicial;NNT220123;1000;1000;;;;Main Workshop
+Inventario Inicial;NNT250123;0;0;;;;Main Workshop
+Inventario Inicial;NNT300123;1700;1700;;;;Main Workshop
+Inventario Inicial;NNT310123;500;500;;;;Main Workshop
+Inventario Inicial;NNT320123;3800;3800;;;;Main Workshop
+Inventario Inicial;NNT330123;2724;2724;;;;Main Workshop
+Inventario Inicial;NNT350123;7400;7400;;;;Main Workshop
+Inventario Inicial;NNT380123;3800;3800;;;;Main Workshop
+Inventario Inicial;NNT400123;4900;4900;;;;Main Workshop
+Inventario Inicial;NNT420123;2000;2000;;;;Main Workshop
+Inventario Inicial;NNT450123;4900;4900;;;;Main Workshop
+Inventario Inicial;NNT500123;1620;1620;;;;Main Workshop
+Inventario Inicial;NNT550123;427;427;;;;Main Workshop
+Inventario Inicial;NNT600123;800;800;;;;Main Workshop
+Inventario Inicial;NNT220854;0;0;;;;Main Workshop
+Inventario Inicial;NNT250854;0;0;;;;Main Workshop
+Inventario Inicial;NNT300854;0;0;;;;Main Workshop
+Inventario Inicial;NNT310854;1000;1000;;;;Main Workshop
+Inventario Inicial;NNT320854;0;0;;;;Main Workshop
+Inventario Inicial;NNT330854;0;0;;;;Main Workshop
+Inventario Inicial;NNT350854;4500;4500;;;;Main Workshop
+Inventario Inicial;NNT380854;6500;6500;;;;Main Workshop
+Inventario Inicial;NNT400854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNT420854;2000;2000;;;;Main Workshop
+Inventario Inicial;NNT450854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNT500854;1497;1497;;;;Main Workshop
+Inventario Inicial;NNT550854;1000;1000;;;;Main Workshop
+Inventario Inicial;NNT600854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNS220580;0;0;;;;Main Workshop
+Inventario Inicial;NNS250580;0;0;;;;Main Workshop
+Inventario Inicial;NNS300580;1000;1000;;;;Main Workshop
+Inventario Inicial;NNS320580;1900;1900;;;;Main Workshop
+Inventario Inicial;NNS330580;2000;2000;;;;Main Workshop
+Inventario Inicial;NNS350580;2300;2300;;;;Main Workshop
+Inventario Inicial;NNS380580;2300;2300;;;;Main Workshop
+Inventario Inicial;NNS400580;4200;4200;;;;Main Workshop
+Inventario Inicial;NNS420580;1300;1300;;;;Main Workshop
+Inventario Inicial;NNS430580;5000;5000;;;;Main Workshop
+Inventario Inicial;NNS450580;2500;2500;;;;Main Workshop
+Inventario Inicial;NNS500580;1700;1700;;;;Main Workshop
+Inventario Inicial;NNS550580;1600;1600;;;;Main Workshop
+Inventario Inicial;NNS600580;1500;1500;;;;Main Workshop
+Inventario Inicial;NNS650580;1000;1000;;;;Main Workshop
+Inventario Inicial;NNS700580;2350;2350;;;;Main Workshop
+Inventario Inicial;NNS750580;2600;2600;;;;Main Workshop
+Inventario Inicial;NNS220123;0;0;;;;Main Workshop
+Inventario Inicial;NNS250123;0;0;;;;Main Workshop
+Inventario Inicial;NNS300123;0;0;;;;Main Workshop
+Inventario Inicial;NNS320123;1200;1200;;;;Main Workshop
+Inventario Inicial;NNS330123;2000;2000;;;;Main Workshop
+Inventario Inicial;NNS350123;5800;5800;;;;Main Workshop
+Inventario Inicial;NNS380123;2700;2700;;;;Main Workshop
+Inventario Inicial;NNS400123;3300;3300;;;;Main Workshop
+Inventario Inicial;NNS420123;2000;2000;;;;Main Workshop
+Inventario Inicial;NNS430123;2000;2000;;;;Main Workshop
+Inventario Inicial;NNS450123;2100;2100;;;;Main Workshop
+Inventario Inicial;NNS500123;800;800;;;;Main Workshop
+Inventario Inicial;NNS550123;1950;1950;;;;Main Workshop
+Inventario Inicial;NNS600123;1300;1300;;;;Main Workshop
+Inventario Inicial;NNS650123;1900;1900;;;;Main Workshop
+Inventario Inicial;NNS700123;1880;1880;;;;Main Workshop
+Inventario Inicial;NNS750123;2250;2250;;;;Main Workshop
+Inventario Inicial;NNS220854;0;0;;;;Main Workshop
+Inventario Inicial;NNS250854;0;0;;;;Main Workshop
+Inventario Inicial;NNS300854;0;0;;;;Main Workshop
+Inventario Inicial;NNS320854;1300;1300;;;;Main Workshop
+Inventario Inicial;NNS330854;1000;1000;;;;Main Workshop
+Inventario Inicial;NNS350854;3700;3700;;;;Main Workshop
+Inventario Inicial;NNS380854;3000;3000;;;;Main Workshop
+Inventario Inicial;NNS400854;2700;2700;;;;Main Workshop
+Inventario Inicial;NNS420854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNS430854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNS450854;1858;1858;;;;Main Workshop
+Inventario Inicial;NNS500854;1060;1060;;;;Main Workshop
+Inventario Inicial;NNS550854;1500;1500;;;;Main Workshop
+Inventario Inicial;NNS600854;1900;1900;;;;Main Workshop
+Inventario Inicial;NNS650854;1300;1300;;;;Main Workshop
+Inventario Inicial;NNS700854;2350;2350;;;;Main Workshop
+Inventario Inicial;NNS750854;1300;1300;;;;Main Workshop
+Inventario Inicial;CREMALLERA POLIE SEPA 5.0 AUTO 24 CM CABEZA PEQUEÑA NEGRO;300;300;;;;Main Workshop
+Inventario Inicial;POQ320580;900;900;;;;Main Workshop
+Inventario Inicial;POQ340580;500;500;;;;Main Workshop
+Inventario Inicial;POQ360580;1600;1600;;;;Main Workshop
+Inventario Inicial;POQ320123;850;850;;;;Main Workshop
+Inventario Inicial;POQ340123;1650;1650;;;;Main Workshop
+Inventario Inicial;POQ360123;1900;1900;;;;Main Workshop
+Inventario Inicial;POQ320854;1900;1900;;;;Main Workshop
+Inventario Inicial;POQ340854;1800;1800;;;;Main Workshop
+Inventario Inicial;POQ360854;1800;1800;;;;Main Workshop
+Inventario Inicial;PPS320580;750;750;;;;Main Workshop
+Inventario Inicial;PPS230580;0;0;;;;Main Workshop
+Inventario Inicial;PPS230123;300;300;;;;Main Workshop
+Inventario Inicial;PPS230854;300;300;;;;Main Workshop
+Inventario Inicial;CREMALLERA POLIE SEPA 5.0 AUTO 25 CM CABEZA PEQUEÑA NEGRO;0;0;;;;Main Workshop
+Inventario Inicial;CREMALLERA POLIE SEPA 5.0 AUTO 25 CM CABEZA PEQUEÑA BEIGE;0;0;;;;Main Workshop
+Inventario Inicial;CREMALLERA POLIE SEPA 5.0 AUTO 25 CM CABEZA PEQUEÑA COCOA;0;0;;;;Main Workshop
+Inventario Inicial;PPT380580;0;0;;;;Main Workshop
+Inventario Inicial;PPT400580;0;0;;;;Main Workshop
+Inventario Inicial;PPT650274;0;0;;;;Main Workshop
+Inventario Inicial;PPT650501;0;0;;;;Main Workshop
+Inventario Inicial;PPT650513;0;0;;;;Main Workshop
+Inventario Inicial;PPT650516;0;0;;;;Main Workshop
+Inventario Inicial;PPT650546;0;0;;;;Main Workshop
+Inventario Inicial;PPT650552;0;0;;;;Main Workshop
+Inventario Inicial;PPT650553;0;0;;;;Main Workshop
+Inventario Inicial;PPT650562;0;0;;;;Main Workshop
+Inventario Inicial;PPT650570;0;0;;;;Main Workshop
+Inventario Inicial;PPT650820;0;0;;;;Main Workshop
+Inventario Inicial;POQ360274;0;0;;;;Main Workshop
+Inventario Inicial;POQ360501;0;0;;;;Main Workshop
+Inventario Inicial;POQ360513;0;0;;;;Main Workshop
+Inventario Inicial;POQ360516;0;0;;;;Main Workshop
+Inventario Inicial;POQ360546;0;0;;;;Main Workshop
+Inventario Inicial;POQ360552;0;0;;;;Main Workshop
+Inventario Inicial;POQ360553;0;0;;;;Main Workshop
+Inventario Inicial;POQ360562;0;0;;;;Main Workshop
+Inventario Inicial;POQ360570;0;0;;;;Main Workshop
+Inventario Inicial;POQ360820;0;0;;;;Main Workshop
+Inventario Inicial;PPS250274;0;0;;;;Main Workshop
+Inventario Inicial;PPS250501;0;0;;;;Main Workshop
+Inventario Inicial;PPS250513;0;0;;;;Main Workshop
+Inventario Inicial;PPS250516;0;0;;;;Main Workshop
+Inventario Inicial;PPS250546;0;0;;;;Main Workshop
+Inventario Inicial;PPS250552;0;0;;;;Main Workshop
+Inventario Inicial;PPS250553;0;0;;;;Main Workshop
+Inventario Inicial;PPS250562;0;0;;;;Main Workshop
+Inventario Inicial;PPS250570;0;0;;;;Main Workshop
+Inventario Inicial;PPS250820;0;0;;;;Main Workshop
+Inventario Inicial;21380274;0;0;;;;Main Workshop
+Inventario Inicial;21380501;0;0;;;;Main Workshop
+Inventario Inicial;21380513;0;0;;;;Main Workshop
+Inventario Inicial;21380516;0;0;;;;Main Workshop
+Inventario Inicial;21380546;0;0;;;;Main Workshop
+Inventario Inicial;21380552;0;0;;;;Main Workshop
+Inventario Inicial;21380553;0;0;;;;Main Workshop
+Inventario Inicial;21380562;0;0;;;;Main Workshop
+Inventario Inicial;21380570;0;0;;;;Main Workshop
+Inventario Inicial;21380820;0;0;;;;Main Workshop
+Inventario Inicial;21400274;0;0;;;;Main Workshop
+Inventario Inicial;21400501;0;0;;;;Main Workshop
+Inventario Inicial;21400513;0;0;;;;Main Workshop
+Inventario Inicial;21400516;0;0;;;;Main Workshop
+Inventario Inicial;21400546;0;0;;;;Main Workshop
+Inventario Inicial;21400552;0;0;;;;Main Workshop
+Inventario Inicial;21400553;0;0;;;;Main Workshop
+Inventario Inicial;21400562;0;0;;;;Main Workshop
+Inventario Inicial;21400570;0;0;;;;Main Workshop
+Inventario Inicial;21400820;0;0;;;;Main Workshop
+Inventario Inicial;21420274;0;0;;;;Main Workshop
+Inventario Inicial;21420501;0;0;;;;Main Workshop
+Inventario Inicial;21420513;0;0;;;;Main Workshop
+Inventario Inicial;21420516;0;0;;;;Main Workshop
+Inventario Inicial;21420546;0;0;;;;Main Workshop
+Inventario Inicial;21420552;0;0;;;;Main Workshop
+Inventario Inicial;21420553;0;0;;;;Main Workshop
+Inventario Inicial;21420562;0;0;;;;Main Workshop
+Inventario Inicial;21420570;0;0;;;;Main Workshop
+Inventario Inicial;21420820;0;0;;;;Main Workshop
+Inventario Inicial;PPT700274;0;0;;;;Main Workshop
+Inventario Inicial;PPT700501;0;0;;;;Main Workshop
+Inventario Inicial;PPT700513;0;0;;;;Main Workshop
+Inventario Inicial;PPT700516;0;0;;;;Main Workshop
+Inventario Inicial;PPT700546;0;0;;;;Main Workshop
+Inventario Inicial;PPT700552;0;0;;;;Main Workshop
+Inventario Inicial;PPT700553;0;0;;;;Main Workshop
+Inventario Inicial;PPT700562;0;0;;;;Main Workshop
+Inventario Inicial;PPT700570;0;0;;;;Main Workshop
+Inventario Inicial;PPT700820;0;0;;;;Main Workshop
+Inventario Inicial;PPT750274;0;0;;;;Main Workshop
+Inventario Inicial;PPT750501;0;0;;;;Main Workshop
+Inventario Inicial;PPT750513;0;0;;;;Main Workshop
+Inventario Inicial;PPT750516;0;0;;;;Main Workshop
+Inventario Inicial;PPT750546;0;0;;;;Main Workshop
+Inventario Inicial;PPT750552;0;0;;;;Main Workshop
+Inventario Inicial;PPT750553;0;0;;;;Main Workshop
+Inventario Inicial;PPT750562;0;0;;;;Main Workshop
+Inventario Inicial;PPT750570;0;0;;;;Main Workshop
+Inventario Inicial;PPT750820;0;0;;;;Main Workshop
+Inventario Inicial;POQ310513;0;0;;;;Main Workshop
+Inventario Inicial;POQ330513;0;0;;;;Main Workshop
+Inventario Inicial;POQ350513;0;0;;;;Main Workshop
+Inventario Inicial;POQ370513;0;0;;;;Main Workshop
+Inventario Inicial;POQ320513;0;0;;;;Main Workshop
+Inventario Inicial;POQ340513;0;0;;;;Main Workshop
+Inventario Inicial;PPT240580;300;300;;;;Main Workshop
+Inventario Inicial;23267-1;0;0;;;;Main Workshop
+Inventario Inicial;23267-2;0;0;;;;Main Workshop
+Inventario Inicial;23267-3;0;0;;;;Main Workshop
+Inventario Inicial;23267-4;0;0;;;;Main Workshop
+Inventario Inicial;803-1;1000;1000;;;;Main Workshop
+Inventario Inicial;803-2;700;700;;;;Main Workshop
+Inventario Inicial;803-3;2975;2975;;;;Main Workshop
+Inventario Inicial;803-4;2489;2489;;;;Main Workshop
+Inventario Inicial;803-5;1250;1250;;;;Main Workshop
+Inventario Inicial;803-6;1045;1045;;;;Main Workshop
+Inventario Inicial;804-1;432;432;;;;Main Workshop
+Inventario Inicial;803-7;2000;2000;;;;Main Workshop
+Inventario Inicial;803-8;1900;1900;;;;Main Workshop
+Inventario Inicial;803-9;3400;3400;;;;Main Workshop
+Inventario Inicial;803-10;1075;1075;;;;Main Workshop
+Inventario Inicial;803-11;299;299;;;;Main Workshop
+Inventario Inicial;803-12;4890;4890;;;;Main Workshop
+Inventario Inicial;803-13;290;290;;;;Main Workshop
+Inventario Inicial;803-14;1600;1600;;;;Main Workshop
+Inventario Inicial;803-15;1000;1000;;;;Main Workshop
+Inventario Inicial;804;4450;4450;;;;Main Workshop
+Inventario Inicial;805;2569;2569;;;;Main Workshop
+Inventario Inicial;806;85;85;;;;Main Workshop
+Inventario Inicial;23267-5;75;75;;;;Main Workshop
+Inventario Inicial;23267-6;1300;1300;;;;Main Workshop
+Inventario Inicial;23267-7;625;625;;;;Main Workshop
+Inventario Inicial;23267-8;600;600;;;;Main Workshop
+Inventario Inicial;23267-9;700;700;;;;Main Workshop
+Inventario Inicial;23267-10;1775;1775;;;;Main Workshop
+Inventario Inicial;23267-11;1350;1350;;;;Main Workshop
+Inventario Inicial;28256-1;500;500;;;;Main Workshop
+Inventario Inicial;28256-2;500;500;;;;Main Workshop
+Inventario Inicial;28256-3;2000;2000;;;;Main Workshop
+Inventario Inicial;28256-4;200;200;;;;Main Workshop
+Inventario Inicial;28256-5;2000;2000;;;;Main Workshop
+Inventario Inicial;28256-6;800;800;;;;Main Workshop
+Inventario Inicial;28256-7;1650;1650;;;;Main Workshop
+Inventario Inicial;28256-8;1250;1250;;;;Main Workshop
+Inventario Inicial;34888-1;300;300;;;;Main Workshop
+Inventario Inicial;34888-2;600;600;;;;Main Workshop
+Inventario Inicial;34888-3;500;500;;;;Main Workshop
+Inventario Inicial;34888-4;300;300;;;;Main Workshop
+Inventario Inicial;34888-5;1075;1075;;;;Main Workshop
+Inventario Inicial;34888-6;2100;2100;;;;Main Workshop
+Inventario Inicial;34888-7;1875;1875;;;;Main Workshop
+Inventario Inicial;34888-8;1000;1000;;;;Main Workshop
+Inventario Inicial;34888-9;550;550;;;;Main Workshop
+Inventario Inicial;34888-10;1900;1900;;;;Main Workshop
+Inventario Inicial;34888-11;100;100;;;;Main Workshop
+Inventario Inicial;34888-12;50;50;;;;Main Workshop
+Inventario Inicial;34888-13;150;150;;;;Main Workshop
+Inventario Inicial;34888-14;100;100;;;;Main Workshop
+Inventario Inicial;34888-15;700;700;;;;Main Workshop
+Inventario Inicial;34888-16;1025;1025;;;;Main Workshop
+Inventario Inicial;34888-17;1000;1000;;;;Main Workshop
+Inventario Inicial;34888-18;1825;1825;;;;Main Workshop
+Inventario Inicial;34888-19;750;750;;;;Main Workshop
+Inventario Inicial;34888-20;1900;1900;;;;Main Workshop
+Inventario Inicial;34888-21;100;100;;;;Main Workshop
+Inventario Inicial;34888-22;150;150;;;;Main Workshop
+Inventario Inicial;34888-23;150;150;;;;Main Workshop
+Inventario Inicial;34888-24;100;100;;;;Main Workshop
+Inventario Inicial;34888-25;725;725;;;;Main Workshop
+Inventario Inicial;34888-26;2600;2600;;;;Main Workshop
+Inventario Inicial;34888-27;875;875;;;;Main Workshop
+Inventario Inicial;34888-28;425;425;;;;Main Workshop
+Inventario Inicial;34888-29;400;400;;;;Main Workshop
+Inventario Inicial;34888-30;2000;2000;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 32 CM 00002 NEGRO;300;300;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 33 CM 00002 NEGRO;550;550;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 30 CM 06762 BEIGE;525;525;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 32 CM 06762 BEIGE;500;500;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 33 CM 06762 BEIGE;300;300;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 32 CM 00395 COCOA;125;125;;;;Main Workshop
+Inventario Inicial;POLIESTER 3 AUTO 35 CM 00395 COCOA;300;300;;;;Main Workshop
+Inventario Inicial;SEP POLIESTER 6 AUTO SEMI 30 CM 90 TONO A TONO 06762 BEIGE;475;475;;;;Main Workshop
+Inventario Inicial;SEP POLIESTER 6 AUTO SEMI 35 CM 90 TONO A TONO 00395 COCOA;500;500;;;;Main Workshop
+Inventario Inicial;POLIESTER 6 AUTO SEMI 30 CM 90 TONO A TONO 00002 NEGRO;200;200;;;;Main Workshop
+Inventario Inicial;POLIESTER 6 AUTO SEMI 38 CM 90 TONO A TONO 00002 NEGRO;750;750;;;;Main Workshop
+Inventario Inicial;POLIESTER 6 AUTO SEMI 40 CM 90 TONO A TONO 00395 COCOA;300;300;;;;Main Workshop
+Inventario Inicial;CREMALLERA POLIE FIJA 5.0 AUTOMA 24 CM CABEZA GRANDE NEGRO;100;100;;;;Main Workshop
+Inventario Inicial;GAFETE 3/4 1 X 1 NEGRO BET-EL;800;800;;;;Main Workshop
+Inventario Inicial;GAFETE 3/4 1 X 1 BEIGE BET-EL;1200;1200;;;;Main Workshop
+Inventario Inicial;GAFETE 3/4 1 X 1 COCOA BET-EL;200;200;;;;Main Workshop
+Inventario Inicial;GAFETE 1 X 1 NEGRO VARBRO;12000;12000;;;;Main Workshop
+Inventario Inicial;GAFETE 1 X 1 BEIGE VARBRO;26000;26000;;;;Main Workshop
+Inventario Inicial;GAFETE 1 X 1 COCOA VARBRO;26000;26000;;;;Main Workshop
+Inventario Inicial;GAFETE 1 X 1 ROSA PASTEL VARBRO;0;0;;;;Main Workshop
+Inventario Inicial;C62644;17324;17324;;;;Main Workshop
+Inventario Inicial;BOLSA BODYLICIUS ROSADO;10867;10867;;;;Main Workshop
+Inventario Inicial;BOLSA DOY PACK CURVE BODY NEGRO;11000;11000;;;;Main Workshop
+Inventario Inicial;BOLSA LINEA FRIA REAFIRMANTE AZUL;14087;14087;;;;Main Workshop
+Inventario Inicial;D21201;4200;4200;;;;Main Workshop
+Inventario Inicial;D25329;12660;12660;;;;Main Workshop
+Inventario Inicial;A0101104;650;650;;;;Main Workshop
+Inventario Inicial;01070180-48.8-A;3000;3000;;;;Main Workshop
+Inventario Inicial;20004336-1;2107;2107;;;;Main Workshop
+Inventario Inicial;20004336-2;2826;2826;;;;Main Workshop
+Inventario Inicial;20004336-3;3550;3550;;;;Main Workshop
+Inventario Inicial;36016MIC-2;0;0;;;;Main Workshop
+Inventario Inicial;36016MIC-3;0;0;;;;Main Workshop
+Inventario Inicial;36016MIC-4;0;0;;;;Main Workshop
+Inventario Inicial;36016MIC-5;2138;2138;;;;Main Workshop
+Inventario Inicial;36016MIC-6;0;0;;;;Main Workshop
+Inventario Inicial;36016MIC-7;0;0;;;;Main Workshop
+Inventario Inicial;36016MIC;0;0;;;;Main Workshop
+Inventario Inicial;3028845;610;610;;;;Main Workshop
+Inventario Inicial;3028780;1120;1120;;;;Main Workshop
+Inventario Inicial;3030948;680;680;;;;Main Workshop
+Inventario Inicial;WSE0851004;3;3;;;;Main Workshop
+Inventario Inicial;H 0300/020-9109-000;1540;1540;;;;Main Workshop
+Inventario Inicial;H 0300/020-8981-000;1680;1680;;;;Main Workshop
+Inventario Inicial;H 0300/020-8166-000;2100;2100;;;;Main Workshop
+Inventario Inicial;2925080-C1257;5;5;;;;Main Workshop
+Inventario Inicial;VAR0010.1810;7;7;;;;Main Workshop
+Inventario Inicial;6040-C9700;66;66;;;;Main Workshop
+Inventario Inicial;6040-C8202;25;25;;;;Main Workshop
+Inventario Inicial;6040-MG106;168;168;;;;Main Workshop
+Inventario Inicial;6040-C8934;9;9;;;;Main Workshop
+Inventario Inicial;8755060-C1700;0;0;;;;Main Workshop
+Inventario Inicial;6040-PA294;135;135;;;;Main Workshop
+Inventario Inicial;19316;4000;4000;;;;Main Workshop
+Inventario Inicial;CINTA SATIN CON FLOR NEGRO;2000;2000;;;;Main Workshop
+Inventario Inicial;101447-2;0;0;;;;Main Workshop
+Inventario Inicial;101465;4400;4400;;;;Main Workshop
+Inventario Inicial;223300001;2500;2500;;;;Main Workshop
+Inventario Inicial;RECTANGULAR;11000;11000;;;;Main Workshop
+Inventario Inicial;CIRCULAR;29200;29200;;;;Main Workshop
+Inventario Inicial;MUÑECA;11550;11550;;;;Main Workshop
+Inventario Inicial;F034;250;250;;;;Main Workshop
+Inventario Inicial;900 M;1764.9;1764.9;;;;Main Workshop
+Inventario Inicial;900 AA;0;0;;;;Main Workshop
+Inventario Inicial;900 A-1;5507.5;5507.5;;;;Main Workshop
+Inventario Inicial;900 A-2;1055.2;1055.2;;;;Main Workshop
+Inventario Inicial;750 A-1;0;0;;;;Main Workshop
+Inventario Inicial;750 A-2;191.5;191.5;;;;Main Workshop
+Inventario Inicial;700 A-3;612.3;612.3;;;;Main Workshop
+Inventario Inicial;450 A-1;677.1;677.1;;;;Main Workshop
+Inventario Inicial;450 A-2;495.3;495.3;;;;Main Workshop
+Inventario Inicial;650 A;0;0;;;;Main Workshop
+Inventario Inicial;LIMPIDO;1;1;;;;Main Workshop
+Inventario Inicial;FABULOSO;3;3;;;;Main Workshop
+Inventario Inicial;ALFP-COL;20000;20000;;;;Main Workshop
+Inventario Inicial;ALFP-CO-1;7200;7200;;;;Main Workshop
+Inventario Inicial;ALFP-CO-2;20000;20000;;;;Main Workshop
+Inventario Inicial;ELASTICO SUAVE 10 CM NEGRO;725;725;;;;Main Workshop
+Inventario Inicial;ELASTICO SUAVE 15 CM NEGRO;1350;1350;;;;Main Workshop
+Inventario Inicial;XO2531;3;3;;;;Main Workshop
+Inventario Inicial;X00436;1;1;;;;Main Workshop
+Inventario Inicial;03400040A3;524;524;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455520;6204;6204;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455521;4549;4549;;;;Main Workshop
+Inventario Inicial;4D2000110001000U455522;4081;4081;;;;Main Workshop
+Inventario Inicial;9 X 15 - C2;12;12;;;;Main Workshop
+Inventario Inicial;12 X 18 - C2;4;4;;;;Main Workshop
+Inventario Inicial;18 X 24 - C1;3;3;;;;Main Workshop
+Inventario Inicial;ELASTICO CALZADO 100 MM NEGRO;1300;1300;;;;Main Workshop
+Inventario Inicial;ELASTICO CALZADO 120 MM NEGRO;350;350;;;;Main Workshop
+Inventario Inicial;SPI-KRFT1 8M20K;1;1;;;;Main Workshop
+Inventario Inicial;SPI-SULEC1;15;15;;;;Main Workshop
+Inventario Inicial;TAPAVARILLA ( LATEX );297;297;;;;Main Workshop
+Inventario Inicial;SESGO ALGODÓN NEGRO ( LATEX );170;170;;;;Main Workshop
+Inventario Inicial;SESGO ALGODÓN BEIGE ( LATEX );34;34;;;;Main Workshop
+Inventario Inicial;POLIESTER 6MM;421;421;;;;Main Workshop
+Inventario Inicial;717991716-3;202;202;;;;Main Workshop
+Inventario Inicial;64GR;13;13;;;;Main Workshop
+Inventario Inicial;RENOVADOR DE FAJAS ( BRILLANTIL );0;0;;;;Main Workshop
+Inventario Inicial;571-112-9.0M-1;25;25;;;;Main Workshop
+Inventario Inicial;571-112-9.0M-2;20;20;;;;Main Workshop
+Inventario Inicial;101484;4650;4650;;;;Main Workshop
+Inventario Inicial;101447;4791;4791;;;;Main Workshop
+Inventario Inicial;VENTA DE BOLSA PLANA CON GANCHO POWER NET REF: 101465;25759;25759;;;;Main Workshop
+Inventario Inicial;101509;1500;1500;;;;Main Workshop
+Inventario Inicial;101586;3656;3656;;;;Main Workshop
+Inventario Inicial;101098G;4760;4760;;;;Main Workshop
+Inventario Inicial;101194R;5511;5511;;;;Main Workshop
+Inventario Inicial;101407;411;411;;;;Main Workshop
+Inventario Inicial;31190;839;839;;;;Main Workshop
+Inventario Inicial;BROCHE MACHO 2 kilogramosS;84000;84000;;;;Main Workshop
+Inventario Inicial;BROCHE HEMBRA 2 kilogramosS;235200;235200;;;;Main Workshop
+Inventario Inicial;CETR00480100;271;271;;;;Main Workshop
+Inventario Inicial;CITR72100454;86;86;;;;Main Workshop
+Inventario Inicial;CINTA IMP TRANS ANN MICHELL ESP 72X100MTS 2T;96;96;;;;Main Workshop
+Inventario Inicial;CINTA IMP TRANS 72X100MTS 2T BELLA MICHELL;69;69;;;;Main Workshop
+Inventario Inicial;CINTA ELEGANT FIGURE;205;205;;;;Main Workshop
+Inventario Inicial;CDEB90240020;25;25;;;;Main Workshop
+Inventario Inicial;STFM05015450;18;18;;;;Main Workshop
+Inventario Inicial;70553;3000;3000;;;;Main Workshop
+Inventario Inicial;0063779-580;1750;1750;;;;Main Workshop
+Inventario Inicial;U-LOOP4UNNAP-C;500;500;;;;Main Workshop
+Inventario Inicial;U-HOOK50:4-C;500;500;;;;Main Workshop
+Inventario Inicial;"VENDAS DE YESO 8"" X 5 YDS $ 12.900";117;117;;;;Main Workshop
+Inventario Inicial;CAJAS PLEGABLES DE PAPEL OSMOTICO;600;600;;;;Main Workshop
+Inventario Inicial;METROS ANN MICHELL;140;140;;;;Main Workshop
+Inventario Inicial;ELASTICO BASE 5 CM LISO SIN SILICONA NEGRO;173;173;;;;Main Workshop
